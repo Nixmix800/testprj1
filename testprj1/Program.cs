@@ -7,6 +7,8 @@ namespace testprj1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("MOIN BONIS MUM!!");
+            Console.ReadKey();
         }
     }
 }
